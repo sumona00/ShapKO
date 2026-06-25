@@ -70,20 +70,15 @@ that MIMIC data requires credentialed PhysioNet access (CITI training).
 
 ```
 shapko/
-├── shapko/
-│   ├── shapley.py     # exact + Monte-Carlo Shapley (Eq. 1)
-│   ├── knockout.py    # base rate, simplex weights, rate update, mask + apply (Eqs. 2-4)
-│   ├── utility.py     # subset enumeration + validation-utility estimation
-│   ├── metrics.py     # AUC, multilabel AUC, Cox C-index
-│   ├── models.py      # MultimodalModel interface + reference model
-│   └── trainer.py     # two-phase ShapKOTrainer
-├── assets/            # figures used in this README
-├── configs/           # per-task hyperparameters
-├── examples/          # verify_core.py, toy_example.py
-├── tests/             # unit tests for the core math
-├── pyproject.toml
-├── requirements.txt
-└── LICENSE
+├── Code/
+│   ├── Prostate Cancer Detection/
+        ├── Code/
+├── Survival Prediction/
+        ├── Code/
+├── Multitaks Classification/
+        ├── Code/
+├── Figure
+├── README.md
 ```
 
 ---
