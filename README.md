@@ -86,8 +86,3 @@ shapko/
 ## 📬 Contact
 
 For questions or issues, reach out to: 📧 nn284@cornell.edu
-
-## 🙏 Acknowledgments
-
-This work is funded by NewYork-Presbyterian, NYP–Cornell Cardiovascular AI
-Collaboration.
