@@ -62,20 +62,6 @@ shapko/
 └── LICENSE
 ```
 
-
-## 📝 Citation
-
-If you find this work useful, please consider citing us:
-
-```bibtex
-@inproceedings{nizam2026shapko,
-  title     = {ShapKO: Shapley-Adaptive Modality Knockout for Robust Multimodal Learning},
-  author    = {Nizam, Nusrat Binta and Liu, Fengbei and Kwak, Sunwoo and Nguyen, Minh and Deng, Ruining and Sabuncu, Mert R.},
-  booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
-  year      = {2026}
-}
-```
-
 ---
 
 ## 📬 Contact
