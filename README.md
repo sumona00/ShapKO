@@ -6,7 +6,7 @@ This repository contains the official implementation of our MICCAI 2026 paper:
 **Accepted at MICCAI 2026**
 
 <p align="center">
-  <img src="assets/Fig1.png" alt="ShapKO overview" width="100%">
+  <img src="Figure/Fig1.png" alt="ShapKO overview" width="100%">
 </p>
 
 ---
@@ -28,7 +28,7 @@ rule), promoting complementary representations with **no architectural changes**
 
 ---
 
-## 🧠 Method
+## ⚙️ Method
 
 ShapKO alternates between two phases:
 
