@@ -41,7 +41,31 @@ ShapKO alternates between two phases:
   Shapley importances, and updates the per-modality knockout rates.
   
 ---
+---
 
+## 📂 Datasets
+
+ShapKO is evaluated on three public multimodal benchmarks. The datasets are
+**not** redistributed here — obtain them from the original sources below. Note
+that MIMIC data requires credentialed PhysioNet access (CITI training).
+
+**Prostate MRI — clinically significant prostate cancer detection (PI-CAI)**
+- Benchmark paper: Saha et al., *Artificial intelligence and radiologists in prostate cancer detection on MRI (PI-CAI)*, The Lancet Oncology, 2024 — https://pi-cai.grand-challenge.org/
+- Preprocessing [Link](https://github.com/DIAGNijmegen/picai_prep#mha-archive--nnu-net-raw-data-archive)
+
+**Survival prediction — Multi-modal learning with Missing Data (MMD)**
+- Benchmark paper: Cui et al., *Survival Prediction of Brain Cancer with Incomplete Radiology, Pathology, Genomic, and Demographic Data*, MICCAI 2022 — [arXiv:2203.04419](https://arxiv.org/abs/2203.04419) · [Springer](https://doi.org/10.1007/978-3-031-16443-9_60)
+- Source data: derived from TCGA (TCGA-GBM / TCGA-LGG) via the GDC Data Portal: https://portal.gdc.cancer.gov/
+
+**Multitask clinical classification (FlexCare / MIMIC-IV)**
+- Benchmark paper: Xu et al., *FlexCare: Leveraging Cross-Task Synergy for Flexible Multimodal Healthcare Prediction*, KDD 2024 — [arXiv:2406.11928](https://arxiv.org/abs/2406.11928)
+- Code: https://github.com/mhxu1998/FlexCare
+- Underlying data (PhysioNet, credentialed access):
+  - MIMIC-IV (EHR): https://physionet.org/content/mimiciv/
+  - MIMIC-CXR (chest X-ray): https://physionet.org/content/mimic-cxr/
+  - MIMIC-IV-Note (clinical notes): https://physionet.org/content/mimic-iv-note/
+
+---
 ## 🗂️ Repository Structure
 
 ```
