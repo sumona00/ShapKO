@@ -65,24 +65,6 @@ that MIMIC data requires credentialed PhysioNet access (CITI training).
   - MIMIC-CXR (chest X-ray): https://physionet.org/content/mimic-cxr/
   - MIMIC-IV-Note (clinical notes): https://physionet.org/content/mimic-iv-note/
 
----
-## 🗂️ Repository Structure
-
-```
-shapko/
-├── Code/
-│   ├── Prostate Cancer Detection/
-        ├── Code/
-├── Survival Prediction/
-        ├── Code/
-├── Multitaks Classification/
-        ├── Code/
-├── Figure
-├── README.md
-```
-
----
-
 ## 📬 Contact
 
 For questions or issues, reach out to: 📧 nn284@cornell.edu
