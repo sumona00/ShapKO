@@ -16,7 +16,7 @@ This repository contains the official implementation of our MICCAI 2026 paper:
 > Nusrat Binta Nizam, Fengbei Liu, Sunwoo Kwak, Minh Nguyen, Ruining Deng, Mert R. Sabuncu.
 > *ShapKO: Shapley-Adaptive Modality Knockout for Robust Multimodal Learning.*
 > Accepted at MICCAI 2026.
-> [Full Paper](#)  <https://arxiv.org/abs/2607.09884>
+> [Full Paper](#)  <!https://arxiv.org/abs/2607.09884>
 
 Multimodal medical models often degrade when inputs are missing, a common
 scenario in real clinical workflows. Even when all modalities are present,
